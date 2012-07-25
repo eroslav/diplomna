@@ -1,0 +1,12 @@
+c_file
+c_image
+c_exam
+
+c_question_type
+c_answer_type
+
+users
+
+question
+answer
+exam

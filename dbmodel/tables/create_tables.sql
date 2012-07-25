@@ -1,0 +1,9 @@
+@@ANSWER.sql
+@@C_ANSWER_TYPE.sql
+@@C_FILE.sql
+@@C_IMAGE.sql
+@@C_QUESTION_TYPE.sql
+@@QUESTION.sql
+@@R_ANSWER_IMAGE.sql
+@@R_QUESTION_IMAGE.sql
+@@SYSTEM_PARAMETER.sql
