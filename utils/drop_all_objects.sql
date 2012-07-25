@@ -1,7 +1,5 @@
--- Drops all objects in eGSK schema
+-- Drops all objects in schema
 -- Ver1.0
--- Modified
--- Vova   12/11/2005  - created
 
 DECLARE
 i NUMBER(5) := 0;
